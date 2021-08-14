@@ -1,6 +1,14 @@
- body {
+body {
+  text-align: center;
   background-color: #E8F6EF;
  }
+
+h1{
+color: #368B85;
+}
+h3{
+color: #368B85;
+}
 
  hr {
   border-style: none;
