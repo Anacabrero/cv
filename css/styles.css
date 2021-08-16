@@ -1,24 +1,29 @@
 body {
   text-align: center;
   background-color: #E8F6EF;
- }
-
-h1{
-color: #368B85;
-font-size: 48px;
-}
-h3{
-color: #368B85;
 }
 
- hr {
+h1 {
+  color: #368B85;
+  font-family: "Futura lt bt";
+  font-size: 48px;
+}
+
+h3 {
+  color: #368B85;
+  font-family: "Futura lt bt";
+  font-size: 28px;
+}
+
+p {
+  font-family: "Futura lt bt";
+  font-size: 20px;
+}
+
+hr {
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
   width: 30%;
- }
-
- img {
-   height: 150px;
- }
+}
